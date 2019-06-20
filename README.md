@@ -2,6 +2,7 @@
 Exercício 1 aula 2 devops 
 
 atores/atrizes preferidos:
-1. Jose Perez
-2. Mario Rodriges
-3. Luis Calvo
+1. Tim Maiaz
+2. Nelson Gonçalves
+3. Emilio Santiago
+4. Gal Costa
